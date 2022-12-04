@@ -134,3 +134,7 @@ dmypy.json
 
 # Scripts
 move_to_android.txt
+
+
+#Banco de daos
+celery.sqlite

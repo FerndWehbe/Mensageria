@@ -7,6 +7,9 @@ name = "pypi"
 pika = "*"
 pylama = "*"
 black = "*"
+celery = {extras = ["redis"], version = "*"}
+eventlet = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
